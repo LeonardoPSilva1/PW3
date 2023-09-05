@@ -1,0 +1,68 @@
+[
+
+{
+    "uuid": "e370fa57-4757-3604-3648-499e1f642d3f",
+    "Nome do Personagem": "Gekko",
+    "descrição": "Gekko, o Angeleno, lidera um grupo unido de criaturas calamitosas. Seus amigos avançam, espalhando os inimigos para fora do caminho, com Gekko os perseguindo para se reagruparem e partirem novamente.",
+    "Nome do Desenvolvedor": "Aggrobot",
+    "url_imagem": "././img/001.jpg"
+},
+{
+    "uuid": "dade69b4-4f5a-8528-247b-219e5a1facd6",
+    "Nome do Personagem": "Fade",
+    "descrição": "A caçadora de recompensas turca Fade libera o poder do pesadelo bruto para apreender os segredos do inimigo. Sintonizada com o próprio terror, ela caça alvos e revela seus medos mais profundos - antes de esmagá-los no escuro.",
+    "Nome do Desenvolvedor": "BountyHunter",
+    "url_imagem": "././img/002.jpg"
+},
+{
+    "uuid": "5f8d3a7f-467b-97f3-062c-13acf203c006",
+    "Nome do Personagem": "Breach",
+    "descrição": "O Swede Breach biônico dispara rajadas cinéticas poderosas e direcionadas para abrir caminho agressivamente através do solo inimigo. Os danos e perturbações que ele inflige garantem que nenhuma luta seja justa.",
+    "Nome do Desenvolvedor": "Breach",
+    "url_imagem": "././img/003.jpg"
+},
+{
+    "uuid": "dade69b4-4f5a-8528-247b-219e5a1facd6",
+    "Nome do Personagem": "Raze",
+    "descrição": "Raze explode no Brasil com sua grande personalidade e grandes armas. Com seu estilo de jogo de força contundente e trauma, ela se destaca em eliminar inimigos entrincheirados e limpar espaços apertados com uma generosa dose de \"boom.\"",
+    "Nome do Desenvolvedor": "Clay",
+    "url_imagem": "././img/004.jpg"
+},
+{
+    "uuid": "dade69b4-4f5a-8528-247b-219e5a1facd6",
+    "Nome do Personagem": "KAY/O",
+    "descrição": "KAY/O é uma máquina de guerra construída com um único propósito: neutralizar os radiantes. Seu poder de suprimir as habilidades inimigas desmantela a capacidade de seus oponentes de revidar, garantindo a ele e a seus aliados a vantagem definitiva."
+    ,
+    "Nome do Desenvolvedor": "Grenadier",
+    "url_imagem": "././img/005.jpg"
+},
+{
+    "uuid": "dade69b4-4f5a-8528-247b-219e5a1facd6",
+    "Nome do Personagem": "Fade",
+    "descrição": "A caçadora de recompensas turca Fade libera o poder do pesadelo bruto para apreender os segredos do inimigo. Sintonizada com o próprio terror, ela caça alvos e revela seus medos mais profundos - antes de esmagá-los no escuro.",
+    "Nome do Desenvolvedor": "Aggrobot",
+    "url_imagem": "././img/006.jpg"
+},
+{
+    "uuid": "dade69b4-4f5a-8528-247b-219e5a1facd6",
+    "Nome do Personagem": "Fade",
+    "descrição": "A caçadora de recompensas turca Fade libera o poder do pesadelo bruto para apreender os segredos do inimigo. Sintonizada com o próprio terror, ela caça alvos e revela seus medos mais profundos - antes de esmagá-los no escuro.",
+    "Nome do Desenvolvedor": "Aggrobot",
+    "url_imagem": "././img/007.jpg"
+},
+{
+    "uuid": "dade69b4-4f5a-8528-247b-219e5a1facd6",
+    "Nome do Personagem": "Fade",
+    "descrição": "A caçadora de recompensas turca Fade libera o poder do pesadelo bruto para apreender os segredos do inimigo. Sintonizada com o próprio terror, ela caça alvos e revela seus medos mais profundos - antes de esmagá-los no escuro.",
+    "Nome do Desenvolvedor": "Aggrobot",
+    "url_imagem": "././img/008.jpg"
+},
+{
+    "uuid": "dade69b4-4f5a-8528-247b-219e5a1facd6",
+    "Nome do Personagem": "Fade",
+    "descrição": "A caçadora de recompensas turca Fade libera o poder do pesadelo bruto para apreender os segredos do inimigo. Sintonizada com o próprio terror, ela caça alvos e revela seus medos mais profundos - antes de esmagá-los no escuro.",
+    "Nome do Desenvolvedor": "Aggrobot",
+    "url_imagem": "././img/009  .jpg"
+}
+
+]

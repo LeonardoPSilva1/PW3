@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(31, 29, 29);
+    background-image: url("./img/Design\ sem\ nome.png");
+    background-position: center;
+    background-size: cover;
+}
+
+*{
+    line-height: 3vh;
+}
+
+h1{
+    text-align: center; 
+    margin: 4%;
+    font-size: 250%;
+    color: white;
+    text-shadow: 1px 1px 20px red; 
+}
+
+div{
+    height: 78vh;
+    width: 64vw;
+    margin-top: 5% ;
+    margin-left: 250px; 
+    
+}
+
+img{
+    width: auto;
+    margin-bottom: 50%;
+    margin-top: 20%;
+    height: 200px;
+}
+
+td, th {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #fff; 
+    box-shadow: 1px 1px 15px red;
+    margin: 0 auto; 
+    color: #fff;
+    background-color: rgb(31, 29, 29);
+}
+
+@media screen and (max-width: 768px) {
+
+    h1 {
+      font-size: 200%; 
+      margin-left: 20%;
+      margin-bottom: 10%;
+      line-height: 1.2;
+    }
+  
+    div {
+        margin-left: -2%;
+      width: 100%; 
+      padding: 10px; 
+  }
+}
